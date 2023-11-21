@@ -35,4 +35,4 @@ text, 3 noise symbols, special identifiers
 speech recognition; voiceprint recognition
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
