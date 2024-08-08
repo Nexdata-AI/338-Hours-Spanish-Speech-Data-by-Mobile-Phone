@@ -4,7 +4,7 @@
 ## Description
 The 338-hour Spanish speech data and is recorded by 800 Spanish-speaking native speakers from Spain, Mexico, Argentina. The recording enviroment is queit. All texts are manually transcribed.The sentence accuracy rate is 95%. It can be applied to speech recognition, machine translation, voiceprint recognition and so on.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/245?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/245?source=Github
 
 
 ## Format
